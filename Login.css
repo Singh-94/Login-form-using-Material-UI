@@ -1,0 +1,17 @@
+
+@media screen and (max-width:600px) {
+   
+    
+    .box{
+        margin-top: 500px;
+        width: 90%;
+       
+        margin-right: 100px;
+        align-self: center;
+    }
+    Box{
+        height: 800px;
+        margin-right: 200px;
+    }
+}
+
